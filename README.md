@@ -18,3 +18,11 @@
 
 ## Future
 Particles → Fields → Flows → Climate
+
+## Window
+- paintings
+- photographs
+- musics
+- comics
+- films
+- little sparks
