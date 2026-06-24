@@ -7,11 +7,14 @@
 - Dipole scattering visualization
 - Gradient flow and renormalization group
 - Proton spin
+- The Atmosphere, the Ocean, and Environmental Change
 
 ## Notes
 - Numerical methods
-- QFT
+- Quantum field theory
+- Complex Systems
 - HPC
+- About our earth systems
 
 ## Future
-Particles → Fields → Flows → Weather
+Particles → Fields → Flows → Climate
