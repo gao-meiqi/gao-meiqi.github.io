@@ -7,7 +7,7 @@
 - Dipole scattering visualization
 - Gradient flow and renormalization group
 - Proton spin
-- The Atmosphere, the Ocean, and Environmental Change
+- The atmosphere, the ocean, and environmental Change
 
 ## Notes
 - Numerical methods
