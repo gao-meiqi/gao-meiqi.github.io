@@ -11,3 +11,4 @@
 
 -----
 不会再有 correlation function
+逃跑
