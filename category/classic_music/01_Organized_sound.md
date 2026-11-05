@@ -1,8 +1,4 @@
-> "Music is organized sound."
-
----
-
-## Four Questions
+"Music is organized sound."
 
 Every piece of music answers four fundamental questions.
 

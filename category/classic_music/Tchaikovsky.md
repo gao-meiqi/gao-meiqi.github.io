@@ -1,4 +1,4 @@
-#### Symphony No.6 in B minor "Pathétique"
+### Symphony No.6 in B minor "Pathétique"
 
 - Composer
 Pyotr Ilyich Tchaikovsky
@@ -30,8 +30,9 @@ Symphony整个乐团共同讲述一个世界。相比之下，Sonata 更像一�
 #### Thoughts
 - 《伪币制造者》和《悲怆》有一种共同的气质。它们都没有急着给答案。都在讨论：真实是什么？
 
-----
-#### Character Piece: The Seasons, May — White Nights Op.37a
+
+### The Seasons, May — White Nights Op.37a
+
 - 1875
 
 - 俄罗斯北部（尤其圣彼得堡）夏天会出现真正的白夜。夜晚不会完全降临。天空一直保持淡蓝色。
