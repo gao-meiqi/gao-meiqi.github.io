@@ -1,22 +1,126 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>2026 — One Little Discovery</title>
+    <style>
+        :root {
+            --bg-color: #faf9f6;
+            --text-main: #2b2b2b;
+            --text-sub: #666666;
+            --accent-color: #4a6b5d;
+            --link-color: #3b6978;
+            --border-color: #e5e0d8;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, 
+                         "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+            line-height: 1.8;
+            color: var(--text-main);
+            background-color: var(--bg-color);
+            max-width: 640px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        a {
+            color: var(--link-color);
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+
+        a:hover {
+            color: var(--accent-color);
+            text-decoration: underline;
+        }
+
+        .back-link {
+            display: inline-block;
+            font-size: 0.9rem;
+            color: var(--text-sub);
+            margin-bottom: 24px;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 600;
+            letter-spacing: -0.02em;
+            margin: 0 0 8px 0;
+            color: #1a1a1a;
+        }
+
+        .subtitle {
+            font-style: italic;
+            color: var(--text-sub);
+            margin-top: 0;
+            margin-bottom: 16px;
+        }
+
+        .intro {
+            font-size: 1rem;
+            color: var(--text-sub);
+            margin-bottom: 32px;
+        }
+
+        hr {
+            border: none;
+            border-top: 1px solid var(--border-color);
+            margin: 40px 0;
+        }
+
+        h2 {
+            font-size: 1.3rem;
+            font-weight: 600;
+            color: var(--accent-color);
+            margin-top: 32px;
+            margin-bottom: 16px;
+            letter-spacing: 0.05em;
+        }
+
+        h3 {
+            font-size: 1rem;
+            font-weight: 400;
+            color: var(--text-main);
+            margin: 12px 0;
+            padding-left: 8px;
+            border-left: 2px solid transparent;
+        }
+
+        /* 鼠标悬停节气名称时的轻微效果 */
+        h3:hover {
+            border-left-color: var(--accent-color);
+        }
+
+        ul {
+            padding-left: 20px;
+            margin-top: 8px;
+            margin-bottom: 16px;
+        }
+
+        li {
+            margin-bottom: 6px;
+            font-size: 0.95rem;
+        }
+
+        .footer-nav {
+            margin-top: 40px;
+        }
+    </style>
 </head>
 
 <body>
 
-<a href="../lightlife.html">← A More Colorful Life</a>
+<a href="../lightlife.html" class="back-link">← A More Colorful Life</a>
 
 <h1>2026</h1>
 
-<p><i>A year of little discoveries.</i></p>
+<p class="subtitle">A year of little discoveries.</p>
 
-<p>
-    24 solar terms, 52 weeks, and countless things
+<p class="intro">
+    24 solar terms, 52 weeks, and countless things<br>
     worth discovering.
 </p>
 
@@ -75,7 +179,9 @@
 
 <hr>
 
-<p><a href="../lightlife.html">← Back</a></p>
+<div class="footer-nav">
+    <a href="../lightlife.html">← Back</a>
+</div>
 
 </body>
 </html>
