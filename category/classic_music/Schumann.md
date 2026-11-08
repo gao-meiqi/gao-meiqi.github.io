@@ -1,0 +1,1 @@
+how to understand "it is hard to play on it" or "it is suitable to practice"
